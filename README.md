@@ -1,4 +1,4 @@
 # hello-world
 the first repository
 
-I want to be a nice asr algorithm engineer.
+I want to be a nice ASR algorithm engineer.
